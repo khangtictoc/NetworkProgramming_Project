@@ -1,2 +1,4 @@
-# NetworkProgramming_Project
-Project in my University. I just do the designing part
+# Computer Remote Controller
+
+An application like **TeamViewer** or **Ultra Viewer**
+
